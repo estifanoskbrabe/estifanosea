@@ -1,4 +1,5 @@
 import java.util.Arrays;
+//home work for oop
 public class Main {
     public static void main(String[] args) {
         // Create objects of Student, Teacher, College
