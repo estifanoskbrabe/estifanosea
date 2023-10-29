@@ -1,4 +1,5 @@
 public class Teacher {
+    //class teacher
     private String name;
     private int id;
     private String subject;

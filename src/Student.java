@@ -1,4 +1,5 @@
 public class Student {
+    //class student
     private String name;
     private int id;
     private int[] grade;
